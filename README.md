@@ -26,7 +26,8 @@ This project presents an interactive Power BI dashboard designed to analyze sale
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here)
+<img width="1135" height="643" alt="dashboard south" src="https://github.com/user-attachments/assets/d9d41357-5945-4797-88db-1c607d32c22b" />
+
 
 ## Author
 
